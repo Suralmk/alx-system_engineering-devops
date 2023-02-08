@@ -1,2 +1,1 @@
- where am i task 
-
+repository for the project of shell basics
