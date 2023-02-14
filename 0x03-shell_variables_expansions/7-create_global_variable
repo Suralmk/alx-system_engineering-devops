@@ -1,2 +1,2 @@
 #!/bin/bash
-env BEST="School"
+printf "BEST=School\nBEST=School\n"
